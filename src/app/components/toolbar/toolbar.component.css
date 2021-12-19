@@ -1,0 +1,31 @@
+.container {
+    padding: 15px 0px;
+    width: 100%;
+}
+
+mat-toolbar {
+    padding: 0 10%;
+}
+
+.spacer {
+    flex: 1 1 auto;
+}
+
+button {
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+button:hover {
+    background: #d6c7b4;
+}
+
+.cdk-focused {
+    background: #D0A772;
+    color: white;
+}
+
+
+
